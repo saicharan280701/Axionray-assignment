@@ -1,5 +1,5 @@
-**The reports for Task 1 and Task 2 outline a structured approach to analyzing complaints and generating meaningful insights from free-text datasets. These analyses deliver actionable recommendations for operational improvement, customer satisfaction, and data quality management.
-**
+**The reports for Task 1 and Task 2 outline a structured approach to analyzing complaints and generating meaningful insights from free-text datasets. These analyses deliver actionable recommendations for operational improvement, customer satisfaction, and data quality management.**
+
 **Task 1 Summary**
 
 **Approach to Tagging:**
@@ -41,5 +41,5 @@ Both tasks highlight the value of structured tagging and analysis of free-text d
 
 **Operational Improvements:** Focus on recurring technical issues, optimize spare parts inventory, and enhance quality control.
 **Customer Experience:** Proactive support systems and knowledge bases can improve satisfaction and reduce escalation.
-**Data Management: **Standardizing and enriching datasets ensures reliable analysis and supports future predictive models.
+**Data Management:** Standardizing and enriching datasets ensures reliable analysis and supports future predictive models.
 Implementing these recommendations will lead to improved product performance, customer satisfaction, and efficient operations, while also enabling deeper insights into root causes and patterns in future analyses.
